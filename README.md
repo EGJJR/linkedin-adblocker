@@ -1,2 +1,2 @@
-# linkedin-adblocker
+# Adblocker
 An AdBlocker Extension for LinkedIn
